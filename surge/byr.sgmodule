@@ -3,3 +3,6 @@
 
 [Rule]
 DOMAIN,byr.pt,DIRECT
+
+[Host]
+byr.pt = 2001:da8:215:4078:250:56ff:fe97:654d
