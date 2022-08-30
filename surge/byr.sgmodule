@@ -1,0 +1,5 @@
+#!name=BYR
+#!desc=byr
+
+[Rule]
+DOMAIN,byr.pt,Direct
